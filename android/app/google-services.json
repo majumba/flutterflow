@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "190768470030",
+    "project_id": "banteng-3525b",
+    "storage_bucket": "banteng-3525b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190768470030:android:068507566d8e302ca8445f",
+        "android_client_info": {
+          "package_name": "com.mycompany.banteng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190768470030-bjgrusj33v8ol73442lcfifg3lddvg1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.banteng",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "190768470030-nshfkcmrraeveta4idv4i03qa4oie4ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNllL33O5banXp4YcZikwa8CFL4PBipeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190768470030-f31egkfa3bdjc9ie64kedeadio8qps6p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "190768470030-cde7bvprfm9r0ni2sr4cahn42omffn5m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.banteng"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
